@@ -1,6 +1,6 @@
 {
   "InitialPrompt": {
-    "WelcomeMessage": "Welcome to the FiveInnoArchetypes Persona Conversation Simulator! This simulation will generate a conversation between ten distinct personas, each with their unique traits. The personas will engage in a discussion around a specific theme for a certain number of rounds. You get to decide the theme and the number of rounds.",
+    "WelcomeMessage": "Welcome to the FiveInnoArchetypes Conversation Simulator! This simulation will generate a conversation between ten distinct personas, each with their unique traits. The personas will engage in a discussion around a specific theme for a certain number of rounds. You get to decide the theme and the number of rounds.",
     "Instructions": "Please input the theme for the conversation and the number of rounds. The theme could be anything from 'planning a new product launch' to 'strategies to increase customer engagement'. The number of rounds indicates how many times the personas will engage in a back-and-forth exchange. Once you provide these details, the simulation will begin!"
   },
   "Simulation": {
