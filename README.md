@@ -1,4 +1,4 @@
-# FiveInnoArchetypes Persona Conversation Simulator
+# FiveInnoArchetypes Conversation Simulator
 This repository houses a JSON-based conversation simulator. It simulates dialogues among ten personas, each with unique traits and roles across five professional archetypes. User inputs guide the conversation theme and number of rounds, making it a dynamic tool for exploring group interactions.
 
 The conversation simulator that facilitates dynamic dialogues among ten unique personas. Each persona has distinct traits and roles, representing different professional archetypes - Researchers, Designers, Makers, Marketers, and Managers.
